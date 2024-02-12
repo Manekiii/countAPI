@@ -20,7 +20,7 @@
 
   <ItemGroup>
     <Reference Include="FastNetCoreLibrary">
-      <HintPath>..\..\..\..\Documents\BackupDatas\Kakuwarai\FastNetCoreLibrary\FastNetCoreLibrary.dll</HintPath>
+      <HintPath>..\..\..\..\..\Downloads\TokenAuthentication\TokenAuthentication\FastNetCoreLibrary\FastNetCoreLibrary.dll</HintPath>
     </Reference>
   </ItemGroup>
 

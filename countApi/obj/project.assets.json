@@ -4131,19 +4131,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mjfalvarez\\.nuget\\packages\\": {}
+    "C:\\Users\\crealon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mjfalvarez\\Documents\\countApi\\countApi\\countApi\\countApi.csproj",
+      "projectUniqueName": "C:\\Users\\crealon\\Documents\\FastAPP\\CBV2\\countAPI\\countApi\\countApi.csproj",
       "projectName": "countApi",
-      "projectPath": "C:\\Users\\mjfalvarez\\Documents\\countApi\\countApi\\countApi\\countApi.csproj",
-      "packagesPath": "C:\\Users\\mjfalvarez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mjfalvarez\\Documents\\countApi\\countApi\\countApi\\obj\\",
+      "projectPath": "C:\\Users\\crealon\\Documents\\FastAPP\\CBV2\\countAPI\\countApi\\countApi.csproj",
+      "packagesPath": "C:\\Users\\crealon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\crealon\\Documents\\FastAPP\\CBV2\\countAPI\\countApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mjfalvarez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\crealon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
